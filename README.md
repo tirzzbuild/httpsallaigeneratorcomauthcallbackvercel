@@ -1,0 +1,2 @@
+# httpsallaigeneratorcomauthcallbackvercel
+Deployed via Bot
